@@ -7,8 +7,11 @@ using System.Threading.Tasks;
 
 namespace _14.OopPolymorphysm
 {
-               //Polimorphism, many forms, object of Parent Class can take value of Object of child class
-               //Child class inherits the Parent class
+    //Polimorphism, many forms, object of Parent Class can take value of Object of child class
+    //Child class inherits the Parent class
+    //Polimorphism --it happens when many classes are related to each other by inheritance
+    //inheritance and  polimorphism are  useful for reausability :reuse fields and Methods,of existing claas
+    //when u create a new class !
     class Shape 
     {
     
