@@ -12,6 +12,11 @@ namespace _14.OopPolymorphysm
     //Polimorphism --it happens when many classes are related to each other by inheritance
     //inheritance and  polimorphism are  useful for reausability :reuse fields and Methods,of existing claas
     //when u create a new class !
+
+        // Polymorphism can be static or dynamic.In static polymorphism, 
+        // the response to a function is determined at the compile time.In dynamic polymorphism, 
+        // it is decided at run-time.
+
     class Shape 
     {
     
